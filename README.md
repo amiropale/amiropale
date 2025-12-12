@@ -1,4 +1,4 @@
-# Hi, I’m AmirHossein MalekFarnoud
+# Hi, I’m Amir Malek.
 **Full-Stack Developer | Linux Admin | Open-Source Enthusiast**
 
 I’m a passionate **Front-End Developer** skilled in crafting responsive, accessible, and modern UIs using:  
